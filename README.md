@@ -11,7 +11,7 @@ Este proyecto contiene un análisis completo de varianza y componentes principal
 
 ### Opción 1: GitHub Pages
 El reporte está disponible en:
-**https://felirangelp.github.io/Analisis여_de_Varianza_y_Componentes-Principales/report.html**
+**https://felirangelp.github.io/Analisis_de_Varianza_y_Componentes-Principales/report.html**
 
 ### Opción 2: Localmente
 1. Clona este repositorio:
